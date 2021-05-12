@@ -1,5 +1,4 @@
-# HeartAnalysisProject
-analysis on Heart Dataset
+# Heart Disease Analysis
 
 Our dataset is based on UCI heart Disease Data Set [6] and
 we have 303 instances. According to UCI, “This database
